@@ -9,7 +9,6 @@ public class Bank {
     public int PIN = 1234 ;
 
     public void MAINMENU() {
-        System.out.print("this is a change from github");
         System.out.print("Welcome to EasyBank! \n 1 : Log In \n 2 : Create Account\n 0 : Exit Program\n   : ");
         int MenuOption = input.nextInt();
 
